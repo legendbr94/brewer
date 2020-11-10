@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Pedro Henrique
+Build-Jdk: 11.0.8
+Implementation-Title: brewer
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.algaworks
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-st
+ arter-parent/brewer/
+Created-By: Maven Integration for Eclipse
+
